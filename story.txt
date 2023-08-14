@@ -1,0 +1,30 @@
+"Welcome {PLAYER} to the Mystical Majesties of the Miraculous Meadow!"
+
+An unnaturally bright ray of moonlight disturbs your rest! You find yourself laying within a grassy meadow.
+
+To the [LEFT] of the field are some ominous woods.
+To the [RIGHT] of the field is a rocky hill.
+[CHOOSE]
+LEFT, RIGHT
+
+
+|LEFT
+Entering the ominous woods, you find yourself in a trance. Without meaning to you walk further and further into the woods. The foliage gives way to a path and as you traverse it you come upon a fork in the path. 
+You're released from your trance.
+
+Will you go [LEFT] on the rough dirt road or will you go [RIGHT] onto the bumpy gravel road.
+[CHOOSE]
+LEFT, RIGHT
+
+
+|LEFT
+You walk on the dirt road.
+-
+|RIGHT
+You walk on the gravel road.
+-
+
+
+|RIGHT
+Climbing the rocky hill, you find yourself overlooking a small pixie village.
+-
